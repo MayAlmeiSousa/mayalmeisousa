@@ -2,6 +2,10 @@
 
 ![batman](https://user-images.githubusercontent.com/105395581/195218740-40b945a7-9584-4ff3-baf4-e1ee84fd7176.gif)
 
+## Projeto em Destaque:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mayalmeisousa&repo=github-readme-stats&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Atidades Recentes:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayalmeisousa&show_icons=true&theme=dracula)
