@@ -6,12 +6,12 @@
 
 - :woman_student: Eu sou formada em **ADS** (Análise e Desenvolvimento de Sistemas).
 - :desktop_computer: Eu estou trabalhando recentemente com: **Python**, **HTML** e **CSS**
-- :open_book: Eu estou estudando recente: **UI Desing**, **Análise Orientada e Objeto** e **Inglês**.
+- :open_book: Eu estou estudando recente: **UI Desing**, **Análise Orientada a Objeto** e **Inglês**.
 - :handshake: Eu busco ajudar com: **Resoluções de Problemas**, **Dicas** e com **Projetos Colaborativos**.
-- :raising_hand: Eu busco ajuda com: **Projetos Front-End** e nos **Estudos de Linguagens de Programação**.
--  💬 Fique a vontade para me perguntar sobre: **Dúviddas sobre Estudos**, **Mercado de Tecnologia** e **Curiosidades sobre minha vida**.
+- :raising_hand: Eu preciso de ajuda com: **Projetos Front-End** e nos **Estudos de Linguagens de Programação**.
+-  💬 Fique a vontade para me perguntar sobre: o **Mercado de Tecnologia**, **Estudos** e **Curiosidades sobre minha vida pessoal**.
 - :nerd_face: Me chame de: **May**, **Garota** ou **Ela**.
-- :stuck_out_tongue_winking_eye: Fato Curioso: Como atividade física eu **pratico** **Zumba**  e o meu vigilante noturno favorito é o **Batman**
+- :stuck_out_tongue_winking_eye: Fato Curioso: Como atividade física eu sou adepta da **Zumba** e o meu vigilante noturno favorito é o **Batman**, porém oo meu estúdio favorito é a **Marvel**.
 
 
 ## Habilidades: 
