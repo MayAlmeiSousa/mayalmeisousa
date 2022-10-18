@@ -27,7 +27,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayalmeisousa&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayalmeisousa&layout=compact&theme=dracula)](https://github.com/maylmeisousa/github-readme-stats)
 
-![batman-dc-comics](https://user-images.githubusercontent.com/105395581/195218924-ebf3c682-5a59-4933-89e3-728fa5d379d2.gif)
 
 ## Contatos:
 
@@ -36,4 +35,4 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/may-a-sousa/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/may_almeisousa/)
 
-![batman-sticker](https://user-images.githubusercontent.com/105395581/196308015-73a13cef-0238-4342-bc92-4c1bbe04d702.gif)
+![batman-dc-comics](https://user-images.githubusercontent.com/105395581/195218924-ebf3c682-5a59-4933-89e3-728fa5d379d2.gif)
