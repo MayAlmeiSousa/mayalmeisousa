@@ -11,7 +11,7 @@
 - :raising_hand: Eu preciso de ajuda com: **Projetos Front-End** e nos **Estudos de Linguagens de Programação**.
 -  💬 Fique a vontade para me perguntar sobre: o **Mercado de Tecnologia**, **Estudos** e **Curiosidades sobre minha vida pessoal**.
 - :nerd_face: Me chame de: **May**, **Garota** ou **Ela**.
-- :stuck_out_tongue_winking_eye: Fato Curioso: Como atividade física eu sou adepta da **Zumba** e o meu vigilante noturno favorito é o **Batman**, porém oo meu estúdio favorito é a **Marvel**.
+- :stuck_out_tongue_winking_eye: Fato Curioso: Como atividade física eu sou adepta da **Zumba** e o meu vigilante noturno favorito é o **Batman**, porém o meu estúdio favorito é a **Marvel**.
 
 
 ## Habilidades: 
