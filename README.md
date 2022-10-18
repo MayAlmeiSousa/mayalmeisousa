@@ -1,29 +1,33 @@
-### Oi, Eu sou a Mayara Almeida e sejam bem vindos ao meu Github. 🦇 🖥️
+### Oi, Eu sou a Mayara Almeida e sejam bem vindos ao meu Github. 🦇 🖥️ 
 
-![batman](https://user-images.githubusercontent.com/105395581/195218740-40b945a7-9584-4ff3-baf4-e1ee84fd7176.gif)
+![batman-sticker](https://user-images.githubusercontent.com/105395581/196307730-16daa096-13e4-4775-afd3-920a14dd23b6.gif)
 
-## Atidades Recentes:
+## Um pouco sobre mim:
+
+- :woman_student: Eu sou formada em **ADS** (Análise e Desenvolvimento de Sistemas).
+- :desktop_computer: Eu estou trabalhando recentemente com: **Python**, **HTML** e **CSS**
+- :open_book: Eu estou estudando recente: **UI Desing**, **Análise Orientada e Objeto** e **Inglês**.
+- :handshake: Eu busco ajudar com: **Resoluções de Problemas**, **Dicas** e com **Projetos Colaborativos**.
+- :raising_hand: Eu busco ajuda com: **Projetos Front-End** e nos **Estudos de Linguagens de Programação**.
+-  💬 Fique a vontade para me perguntar sobre: **Dúviddas sobre Estudos**, **Mercado de Tecnologia** e **Curiosidades sobre minha vida**.
+- :nerd_face: Me chame de: **May**, **Garota** ou **Ela**.
+- :stuck_out_tongue_winking_eye: Fato Curioso: Como atividade física eu **pratico** **Zumba**  e o meu vigilante noturno favorito é o **Batman**
+
+
+## Habilidades: 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Java Script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
+## Atidades Recentes: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayalmeisousa&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayalmeisousa&layout=compact&theme=dracula)](https://github.com/maylmeisousa/github-readme-stats)
 
-## Um pouco sobre mim:
-
-- 🔭 I’m currently working on Python, HTML e CSS
-- 🌱 I’m currently learning Python e analise orietada e objeto
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## Habilidades:
-
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![batman-dc-comics](https://user-images.githubusercontent.com/105395581/195218924-ebf3c682-5a59-4933-89e3-728fa5d379d2.gif)
 
 ## Contatos:
 
@@ -32,4 +36,4 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/may-a-sousa/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/may_almeisousa/)
 
-![batman-dc-comics](https://user-images.githubusercontent.com/105395581/195218924-ebf3c682-5a59-4933-89e3-728fa5d379d2.gif)
+![batman-sticker](https://user-images.githubusercontent.com/105395581/196308015-73a13cef-0238-4342-bc92-4c1bbe04d702.gif)
